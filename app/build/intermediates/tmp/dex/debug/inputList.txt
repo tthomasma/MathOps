@@ -1,0 +1,4 @@
+C:\Users\Tim\AndroidStudioProjects\MathOps\app\build\intermediates\classes\debug
+C:\Users\Tim\AndroidStudioProjects\MathOps\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cfd1def89b67601962fd1f0afb45103be1dccce1.jar
+C:\Users\Tim\AndroidStudioProjects\MathOps\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f2e837451e50c211aec3d65a5e16868bfcacda20.jar
+C:\Users\Tim\AndroidStudioProjects\MathOps\app\build\intermediates\pre-dexed\debug\classes-10120f6ba1842ddda2f48df7adeede7a9f813029.jar
